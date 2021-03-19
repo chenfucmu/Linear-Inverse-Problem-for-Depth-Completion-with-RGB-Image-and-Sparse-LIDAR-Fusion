@@ -11,3 +11,8 @@ The proposed demonstration and aggregation network propagates the mixed context 
 This late-fusion block uses the dense context features to guide the depth prediction based on demonstrations by sparse depth features.
 In addition to evaluating the proposed method on benchmark depth completion datasets including NYUDepthV2 and KITTI, we also test the proposed method on a simulated planar LIDAR dataset. 
 Our method shows promising results compared to previous approaches on both the benchmark datasets and simulated dataset with various 3D densities.
+
+
+### Acknowledgments
+
+This work was supported by the CMU Argo AI Center for Autonomous Vehicle Research.

@@ -1,7 +1,6 @@
 # Linear-Inverse-Problem-for-Depth-Completion-with-RGB-Image-and-Sparse-LIDAR-Fusion
 ## Paper
 
-[Preprint](http://arxiv.org/abs/2009.01875)
 
 ## Abstract
 Modern high-definition LIDAR is expensive for commercial autonomous driving vehicles and small indoor robots. 
